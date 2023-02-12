@@ -1,0 +1,12 @@
+body{
+    background: #000;
+    color: #fff;
+}
+.image{
+    height: 32px;
+    width: 108px;
+    padding-top: 0.5rem;
+    overflow-clip-margin: content-box;
+    line-height: normal;
+    -webkit-text-size-adjust: 100%;
+}
